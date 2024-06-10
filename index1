@@ -1,53 +1,71 @@
-<!--1 May 2023-->
+<!--1 May 2023-->gfgfgfgfg
 <!DOCTYPE html>
 <html lang="en-US">
-    <head>
-        <meta charset="utf-8">
-        <meta name="viewport" content="width=device-width,initial-scale=1.0">
-        <title>Jamner Ruiz | WDD 130</title>
-        <meta name="description" content="This page is part of my proyects to develop my skills in web fundamentats while I coursed the WDD130 course in BYU Pathway (https://www.byupathway.org/); I will be sharing new information and showing the application of all the new thing that I will be learning ">
-        <meta name="author" content="Jamner Ruiz">
 
-         <link rel="stylesheet" href="styles/styles.css">
-    </head>
-    <body>
-        <header>
-          <nav>
-            <a href="#">Home</a>
-            <a href="wwr/">Rafting Website</a>
-            <a href="wwr/site-plan-rafting.html">Siteplan</a>
-            <a href="https://www.linkedin.com/in/jamner-ru%C3%ADz-8093ba189/">LinkedIn</a>
-            <a href="https://www.facebook.com/">Facebook</a>
-          </nav>
-        </header>
-        <div class="grid">
-          <main>
-            <h1>Jamner Ruiz | WDD 130</h1>
-            <img src="images/profile.jpg" alt="Hello, my name is Jamner Ruiz" width="200">
-            <p>Hello! My name is Jamner Ruiz, and I am from Panama city in Central America, I enjoy watching series and movies also to run and make some exercise to feel healthy and young. I am a Technical support engineer, I completed a Bachelor in Engineering of Electronics and communications, but actually I am working as a System Engineer because I handle Linux OS, CLI, servers, hardware and all the stuffs related with enterprise environments, the best part of my job is the opportunity to see different issues every day and have the chance to get more knowledge. I have to read new documentations and be familiarized with virtualization environment for management and also the hardware for servers; For my is great to have new things to see and resolve every day and this is one of the reason, why I want to learn more about coding and development due to since I start working with CLI and use some python scripts to resolve bugs in the management virtual machines</p>
-            <!-- W03: Add an unordered list <ul> to your home page -->
-              <!-- W03 In your HTML, given the ul element list of temples a class of box. -->
-            <ul class="box">
-            <li><a href="https://www.churchofjesuschrist.org/temples/details/panama-city-panama-temple" target="_blank">Panama city Temple</a></li>
-            <li><a href="https://www.churchofjesuschrist.org/temples/details/guatemala-city-guatemala-temple" target="_blank">Guatemala city Temple</a></li>
-            <li><a href="https://www.churchofjesuschrist.org/temples/details/san-jose-costa-rica-temple" target="_blank">San Jose Costa Rica Temple</a></li>
-            </ul>
-          </main>
-          <!-- W03: In your HTML, give the aside element a class of box. -->
-        <aside class="box">
-          <h2>Panama city</h2>
-          <img src="images/panama_city.jpg" alt="Panama city">
-          <p>Panama City is the most cosmopolitan capital in Central America, and a must-visit for any traveler in the area. The capital of Panamá is actually 3 cities in one, with a historic district, a rebuilt district, and very modern areas. This vibrant and dynamic urban center is truly a cosmopolitan city in the middle of the tropics, so expect to see massive skyscrapers surrounded by breathtaking nature. A country for those who seek beyond expectations, that dares you to see more. Taste more. Connect more. Feel more. A place for those who long more stimulation, connection and transformation. Panamá is not the destination, but the journey to discover more of what truly matters.</p>
-        </aside>    
-      </div>
-        <footer>
-            <p>©️ 2023 🤖 Jamner Ruiz 🤖 Panama, Panama</p>
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1.0">
+  <title>Jamner Ruiz | WDD 130</title>
+  <meta name="description"
+    content="This page is part of my proyects to develop my skills in web fundamentats while I coursed the WDD130 course in BYU Pathway (https://www.byupathway.org/); I will be sharing new information and showing the application of all the new thing that I will be learning ">
+  <meta name="author" content="Jamner Ruiz">
 
-        </footer>
+  <link rel="stylesheet" href="styles/styles.css">
+</head>
 
-    </body>
-    <!-- 29 April 2023 -->
+<body>
+  <header>
+    <nav>
+      <a href="#">Home</a>
+      <a href="wwr/">Rafting Website</a>
+      <a href="wwr/site-plan-rafting.html">Siteplan</a>
+      <a href="https://www.linkedin.com/in/jamner-ru%C3%ADz-8093ba189/">LinkedIn</a>
+      <a href="https://www.facebook.com/">Facebook</a>
+    </nav>
+  </header>
+  <div class="grid">
+    <main>
+      <h1>Jamner Ruiz | WDD 130</h1>
+      <img src="images/profile.jpg" alt="Hello, my name is Jamner Ruiz" width="200">
+      <p>Hello! My name is Jamner Ruiz, and I am from Panama city in Central America, I enjoy watching series and movies
+        also to run and make some exercise to feel healthy and young. I am a Technical support engineer, I completed a
+        Bachelor in Engineering of Electronics and communications, but actually I am working as a System Engineer
+        because I handle Linux OS, CLI, servers, hardware and all the stuffs related with enterprise environments, the
+        best part of my job is the opportunity to see different issues every day and have the chance to get more
+        knowledge. I have to read new documentations and be familiarized with virtualization environment for management
+        and also the hardware for servers; For my is great to have new things to see and resolve every day and this is
+        one of the reason, why I want to learn more about coding and development due to since I start working with CLI
+        and use some python scripts to resolve bugs in the management virtual machines</p>
+      <!-- W03: Add an unordered list <ul> to your home page -->
+      <!-- W03 In your HTML, given the ul element list of temples a class of box. -->
+      <ul class="box">
+        <li><a href="https://www.churchofjesuschrist.org/temples/details/panama-city-panama-temple"
+            target="_blank">Panama city Temple</a></li>
+        <li><a href="https://www.churchofjesuschrist.org/temples/details/guatemala-city-guatemala-temple"
+            target="_blank">Guatemala city Temple</a></li>
+        <li><a href="https://www.churchofjesuschrist.org/temples/details/san-jose-costa-rica-temple" target="_blank">San
+            Jose Costa Rica Temple</a></li>
+      </ul>
+    </main>
+    <!-- W03: In your HTML, give the aside element a class of box. -->
+    <aside class="box">
+      <h2>Panama city</h2>
+      <img src="images/panama_city.jpg" alt="Panama city">
+      <p>Panama City is the most cosmopolitan capital in Central America, and a must-visit for any traveler in the area.
+        The capital of Panamá is actually 3 cities in one, with a historic district, a rebuilt district, and very modern
+        areas. This vibrant and dynamic urban center is truly a cosmopolitan city in the middle of the tropics, so
+        expect to see massive skyscrapers surrounded by breathtaking nature. A country for those who seek beyond
+        expectations, that dares you to see more. Taste more. Connect more. Feel more. A place for those who long more
+        stimulation, connection and transformation. Panamá is not the destination, but the journey to discover more of
+        what truly matters.</p>
+    </aside>
+  </div>
+  <footer>
+    <p>©️ 2023 🤖 Jamner Ruiz 🤖 Panama, Panama</p>
+
+  </footer>
+
+</body>
+<!-- 29 April 2023 -->
 
 </html>
-
-
